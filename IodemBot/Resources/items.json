@@ -2853,7 +2853,7 @@
     "Grays Armor": {
         "Name": "Grays Armor",
         "Price": 915000,
-        "Icon": "<:Tritons_Ward:569854675906461716>",
+        "Icon": "<:Grays_Armor:582649488322199553>",
         "ItemType": "HeavyArmor",
         "IsEquippable": true,
         "IsArtifact": true,
